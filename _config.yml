@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://owenyjx.github.io/
+url: https://owenyjx.github.io
 date_format: "ordinal"
 title: YJX
 subtitle: "YJX's own website"
